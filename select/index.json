@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイ・ニード・ユア・ラヴ（feat. エリー・ゴールディング）",
+  "base_artist": "カルヴィン・ハリス",
+  "createdAt": "2026-02-19T10:32:38.800911Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Need Your Love (feat. Ellie Goulding)",
+      "artist": "Calvin Harris",
+      "has_synced": false,
+      "path": "select/pl_01_I_Need_Your_Love_(feat._Ellie_Goulding)_Calvin_Harris.txt"
+    }
+  ]
+}
